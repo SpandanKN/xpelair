@@ -1,0 +1,119 @@
+#head{
+	width: 100%;
+	height: 86px;
+	background-color: #009367;
+}
+#head .logo{
+	margin-left: 4.3em;
+	float: left;
+}
+#head .cont{
+	color: #fff;
+	font-size: 18px;
+	float: right;
+	margin-top: 2%;
+	margin-right: 3.7em;
+	font-family: 'Average Sans', sans-serif;
+}
+
+#banner{
+	background-color: #000;
+}
+#banner .banner{
+	display: block;
+	margin: auto;
+	width: 70%;
+}
+
+#blocks .container{
+	width: 85%;
+	background-image: url("../images/leaf-image-bg.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+#blocks img{
+	width: 100%;
+	height: 350px;
+}
+#blocks p{
+	text-align: center;
+	font-family: 'Average Sans', sans-serif;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+#about{
+	line-height: 2.5em;
+	margin-bottom: 2%;
+}
+#about h1{
+	font-family: 'Average Sans', sans-serif;
+	margin: 1em 0;
+}
+#about p{
+	font-family: 'Average Sans', sans-serif;
+	font-size: 18px;
+	color: #666;
+	text-align: justify;
+	margin-bottom: 1em;
+}
+#about input{
+	padding: 2px;
+	color: #009367;
+	font-family: 'Average Sans', sans-serif;
+	font-size: 18px;
+	width: 100%;
+	margin-bottom: 0.5em;
+}
+#about textarea{
+	padding: 2px;
+	color: #009367;
+	font-family: 'Average Sans', sans-serif;
+	font-size: 18px;
+	width: 100%;
+}
+#about .submit{
+	background-color: #009367;
+	color: #eee;
+	font-family: 'Average Sans', sans-serif;
+	font-size: 20px;
+}
+
+#lyn{
+	line-height: 2.5em;
+	margin-bottom: 2%;
+}
+#lyn img{
+	display: block;
+	margin: 0 auto;
+}
+
+#ad{
+	border-top: solid #009367;
+	background-color: #009367;
+	color: #ddd;
+}
+#ad h1{
+	text-align: center;
+	margin-top: 2%;
+	font-family: 'Average Sans', sans-serif;
+}
+#ad h2{
+	font-family: 'Average Sans', sans-serif;
+	font-size: 24px;
+	color: #805252;
+}
+#ad span{
+	font-family: 'Average Sans', sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+}
+#ad address{
+	font-family: 'Average Sans', sans-serif;
+	font-size: 16px;
+}
+
+#foot{
+	height: 5px;
+	background-color: #009367;
+}
